@@ -1,2 +1,2 @@
 # DataCamp
-DataCamp project: use of python to understand the of male and female names throughout the nineteen century.
+Collection of projects completed on the DataCamp platform using Python and R
